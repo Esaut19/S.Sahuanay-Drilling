@@ -1,0 +1,53 @@
+body{
+    background: #070707;    
+}
+
+.tituloprincipal{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.principal{
+    background: #a5badd;
+    padding: 20px;
+}
+
+.titulocentralizado{
+    text-align: center;
+    background: #709c35;
+    
+}
+
+#banner{
+    width: 100%;
+}
+
+p{
+    text-align: center;
+    
+}
+
+em strong {
+    color: rgb(102, 25, 25);
+}
+
+.diferenciales{
+    background: #a5badd;
+   padding: 5px;
+}
+
+.items{
+font-style: italic;
+font-size: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagedif{
+    width: 50%;
+}
+
